@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>IMG_9089.JPG</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>deep</name>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>739</ymin>
+      <xmax>3011</xmax>
+      <ymax>4017</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>deep</name>
+    <bndbox>
+      <xmin>1148</xmin>
+      <ymin>1305</ymin>
+      <xmax>2112</xmax>
+      <ymax>1767</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>deep</name>
+    <bndbox>
+      <xmin>2334</xmin>
+      <ymin>2776</ymin>
+      <xmax>3017</xmax>
+      <ymax>4020</ymax>
+    </bndbox>
+  </object>
+</annotation>
