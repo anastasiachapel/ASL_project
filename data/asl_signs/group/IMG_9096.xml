@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>IMG_9096.JPG</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>group</name>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>295</ymin>
+      <xmax>2723</xmax>
+      <ymax>4018</ymax>
+    </bndbox>
+  </object>
+</annotation>
