@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>IMG_9339.JPG</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>2316</width>
+    <height>3088</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>explode</name>
+    <bndbox>
+      <xmin>47</xmin>
+      <ymin>1265</ymin>
+      <xmax>2297</xmax>
+      <ymax>3077</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>explode</name>
+    <bndbox>
+      <xmin>1486</xmin>
+      <ymin>2366</ymin>
+      <xmax>1705</xmax>
+      <ymax>2616</ymax>
+    </bndbox>
+  </object>
+</annotation>
