@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>IMG_9086.JPG</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>2316</width>
+    <height>3088</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>brain</name>
+    <bndbox>
+      <xmin>794</xmin>
+      <ymin>857</ymin>
+      <xmax>1125</xmax>
+      <ymax>1089</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>brain</name>
+    <bndbox>
+      <xmin>60</xmin>
+      <ymin>808</ymin>
+      <xmax>1765</xmax>
+      <ymax>2445</ymax>
+    </bndbox>
+  </object>
+</annotation>
