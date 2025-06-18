@@ -1,1 +1,9 @@
 app/streamlit_app2.py
+# Python venvs
+.venv/
+# Jupyter checkpoints
+.ipynb_checkpoints/
+# VSCode settings
+.vscode/
+# Ignore the alternate prototype
+app/streamlit_app2.py
