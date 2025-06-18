@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>WhatsApp Image 2025-06-15 at 10.26.56_60c2e83d.jpg</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>2316</width>
+    <height>3088</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>learning</name>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>829</ymin>
+      <xmax>2231</xmax>
+      <ymax>3074</ymax>
+    </bndbox>
+  </object>
+</annotation>
