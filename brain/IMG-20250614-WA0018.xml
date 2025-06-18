@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>IMG-20250614-WA0018.jpg</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>1536</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>brain</name>
+    <bndbox>
+      <xmin>350</xmin>
+      <ymin>1348</ymin>
+      <xmax>946</xmax>
+      <ymax>1977</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>brain</name>
+    <bndbox>
+      <xmin>429</xmin>
+      <ymin>1518</ymin>
+      <xmax>825</xmax>
+      <ymax>1970</ymax>
+    </bndbox>
+  </object>
+</annotation>
