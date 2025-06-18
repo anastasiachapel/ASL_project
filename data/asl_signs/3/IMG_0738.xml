@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>IMG_0738.jpg</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>3</name>
+    <bndbox>
+      <xmin>574</xmin>
+      <ymin>1814</ymin>
+      <xmax>2452</xmax>
+      <ymax>4024</ymax>
+    </bndbox>
+  </object>
+</annotation>
